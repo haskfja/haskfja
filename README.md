@@ -10,7 +10,7 @@ I am a mathematics-trained robotics researcher interested in **real-world robot 
 
 I developed the real-time integration layer that converts third-party `teleop_xr` IK targets into filtered, rate-limited, and safety-monitored DaMiao MIT CAN commands for a physical 14-DOF OpenArm platform.
 
-[Code and documentation](https://github.com/haskfja/openarm-vr-teleop-bridge) · [Full demo](https://github.com/haskfja/openarm-vr-teleop-bridge/blob/main/assets/openarm-vr-demo.mp4)
+[Code and documentation](https://github.com/haskfja/openarm-vr-teleop-bridge) · [VR demo](https://github.com/haskfja/openarm-vr-teleop-bridge/blob/main/assets/openarm-vr-demo.mp4) · [Object-manipulation demo](https://github.com/haskfja/openarm-vr-teleop-bridge/blob/main/assets/openarm-bimanual-object-manipulation.mp4)
 
 ### UR5e VR Teleoperation
 
@@ -35,4 +35,3 @@ Real-robot reproduction of an ACT-based imitation-learning pipeline for delicate
 ## Contact
 
 Beijing, China · yaoruliu@bjfu.edu.cn
-
