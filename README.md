@@ -6,11 +6,11 @@ I am a mathematics-trained robotics researcher interested in **real-world robot 
 
 ### OpenArm VR Teleoperation Bridge
 
-[![OpenArm VR teleoperation](https://raw.githubusercontent.com/haskfja/openarm-vr-teleop-bridge/main/assets/openarm-vr-demo.gif)](https://github.com/haskfja/openarm-vr-teleop-bridge)
+[![OpenArm bimanual object manipulation](https://raw.githubusercontent.com/haskfja/openarm-vr-teleop-bridge/main/assets/openarm-bimanual-object-manipulation.gif)](https://github.com/haskfja/openarm-vr-teleop-bridge/blob/main/assets/openarm-bimanual-object-manipulation.mp4)
 
 I developed the real-time integration layer that converts third-party `teleop_xr` IK targets into filtered, rate-limited, and safety-monitored DaMiao MIT CAN commands for a physical 14-DOF OpenArm platform.
 
-[Code and documentation](https://github.com/haskfja/openarm-vr-teleop-bridge) · [VR demo](https://github.com/haskfja/openarm-vr-teleop-bridge/blob/main/assets/openarm-vr-demo.mp4) · [Object-manipulation demo](https://github.com/haskfja/openarm-vr-teleop-bridge/blob/main/assets/openarm-bimanual-object-manipulation.mp4)
+[Code and documentation](https://github.com/haskfja/openarm-vr-teleop-bridge) · [Primary object-manipulation demo](https://github.com/haskfja/openarm-vr-teleop-bridge/blob/main/assets/openarm-bimanual-object-manipulation.mp4) · [Previous VR demo](https://github.com/haskfja/openarm-vr-teleop-bridge/blob/main/assets/openarm-vr-demo.mp4)
 
 ### UR5e VR Teleoperation
 
