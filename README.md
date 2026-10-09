@@ -28,14 +28,6 @@ Real-robot reproduction of an ACT-based imitation-learning pipeline for delicate
 
 [Watch the full demo](assets/act-grape-grasping-demo.mp4)
 
-### π0.5 Full Fine-Tuning — Language-Conditioned Pick-and-Place
-
-[![π0.5 side-by-side real-robot demo](assets/pi05-pick-and-place-demo.gif)](assets/pi05-pick-and-place-demo.mp4)
-
-I performed **full fine-tuning** of the **π0.5** vision-language-action policy ([openpi](https://github.com/Physical-Intelligence/openpi)) end-to-end on teleoperated real-robot demonstrations, and deployed it **fully autonomously** on an **i2RT YAM arm** for language-conditioned (English instruction) pick-and-place — mugs to plates and cube stacking — with high success rates. Training code and dataset are not publicly available.
-
-[Watch the full demo](assets/pi05-pick-and-place-demo.mp4)
-
 ## Technical focus
 
 `Python` · `PyTorch` · `MuJoCo` · `UR RTDE` · `CAN / CAN FD` · `VR teleoperation` · `Imitation learning`
